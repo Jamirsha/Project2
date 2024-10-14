@@ -84,34 +84,34 @@ Here are some key screenshots demonstrating the application:
 ![Login Page](/u/one.PNG)
 
 ### 2. Dashboard
-![Dashboard](u/1.PNG)
+![Dashboard](/u/1.PNG)
 
 ### 3. Project Overview
-![Project Overview](u/2.PNG)
+![Project Overview](/u/2.PNG)
 
 ### 4. Task Management
-![Task Management](u/3.PNG)
+![Task Management](/u/3.PNG)
 
 ### 5. User Management
-![User Management](u/4.PNG)
+![User Management](/u/4.PNG)
 
 ### 6. Another
-![User Management](u/5.PNG
+![User Management](/u/5.PNG)
 
 ### 7. Another
-![User Management](u/6.PNG)
+![User Management](/u/6.PNG)
 
 ### 8. Another
-![User Management](u/7.PNG)
+![User Management](/u/7.PNG)
 
 ### 9. Another
-![User Management](u/8.PNG)
+![User Management](/u/8.PNG)
 
 ### 10. Another
-![User Management](u/9.PNG)
+![User Management](/u/9.PNG)
 
 ### 11. Another
-![User Management](u/11.PNG)
+![User Management](/u/11.PNG)
 
 
 5. **Access the application**: 
