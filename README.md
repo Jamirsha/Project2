@@ -78,21 +78,11 @@ Before you begin, ensure you have the following installed:
 5. **Access the application**: 
    Open your browser and go to `http://localhost:8080`.
 
-## 📸 Screenshots
+## 📂 Project Structure
 
-*(Add screenshots of the app interface here to illustrate the UI and functionality.)*
+The project structure appears to be a standard Spring Boot project. Here's a breakdown of the main components:
 
-## 💡 Usage
-
-1. **Login**: Users can log in with credentials provided by the admin.
-2. **Create Projects**: Admins or Project Managers can create projects.
-3. **Assign Tasks**: Tasks can be assigned to team members, and progress can be tracked.
-4. **Track Deadlines**: The project timeline shows deadlines and progress.
-5. **User Roles**: Admins can manage users and their roles.
-
-## 📈 Project Structure
-    ```bash
-
+```bash
 ProjectManagementSystem/
 ├── src/
 │   ├── main/
@@ -133,4 +123,3 @@ ProjectManagementSystem/
 ├── HELP.md                                              # Documentation or project instructions
 ├── pom.xml                                              # Maven project file with dependencies
 └── README.md                                            # Project overview and setup instructions
-
