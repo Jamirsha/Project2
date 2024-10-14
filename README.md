@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 Here are some key screenshots demonstrating the application:
 
 ### 1. Login Page
-![Login Page](src/main/resources/static/images/screenshots/login-page.png)
+![Login Page](/u/1.PNG)
 
 ### 2. Dashboard
 ![Dashboard](src/main/resources/static/images/screenshots/dashboard.png)
