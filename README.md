@@ -75,6 +75,25 @@ Before you begin, ensure you have the following installed:
     mvn spring-boot:run
     ```
 
+
+## 📸 Screenshots
+
+Here are some key screenshots demonstrating the application:
+
+### 1. Login Page
+![Login Page](src/main/resources/static/images/screenshots/login-page.png)
+
+### 2. Dashboard
+![Dashboard](src/main/resources/static/images/screenshots/dashboard.png)
+
+### 3. Project Overview
+![Project Overview](src/main/resources/static/images/screenshots/project-overview.png)
+
+### 4. Task Management
+![Task Management](src/main/resources/static/images/screenshots/task-management.png)
+
+### 5. User Management
+![User Management](src/main/resources/static/images/screenshots/user-management.png)
 5. **Access the application**: 
    Open your browser and go to `http://localhost:8080`.
 
