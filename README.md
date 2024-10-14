@@ -81,19 +81,39 @@ Before you begin, ensure you have the following installed:
 Here are some key screenshots demonstrating the application:
 
 ### 1. Login Page
-![Login Page](/u/1.PNG)
+![Login Page](/u/one.PNG)
 
 ### 2. Dashboard
-![Dashboard](src/main/resources/static/images/screenshots/dashboard.png)
+![Dashboard](u/1.PNG)
 
 ### 3. Project Overview
-![Project Overview](src/main/resources/static/images/screenshots/project-overview.png)
+![Project Overview](u/2.PNG)
 
 ### 4. Task Management
-![Task Management](src/main/resources/static/images/screenshots/task-management.png)
+![Task Management](u/3.PNG)
 
 ### 5. User Management
-![User Management](src/main/resources/static/images/screenshots/user-management.png)
+![User Management](u/4.PNG)
+
+### 6. Another
+![User Management](u/5.PNG
+
+### 7. Another
+![User Management](u/6.PNG)
+
+### 8. Another
+![User Management](u/7.PNG)
+
+### 9. Another
+![User Management](u/8.PNG)
+
+### 10. Another
+![User Management](u/9.PNG)
+
+### 11. Another
+![User Management](u/11.PNG)
+
+
 5. **Access the application**: 
    Open your browser and go to `http://localhost:8080`.
 
