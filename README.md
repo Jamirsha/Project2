@@ -91,6 +91,7 @@ Before you begin, ensure you have the following installed:
 5. **User Roles**: Admins can manage users and their roles.
 
 ## 📈 Project Structure
+    ```bash
 
 ProjectManagementSystem/
 ├── src/
