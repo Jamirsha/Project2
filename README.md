@@ -92,11 +92,44 @@ Before you begin, ensure you have the following installed:
 
 ## 📈 Project Structure
 
-```bash
-├── src
-│   ├── main
-│   │   ├── java
-│   │   └── resources
-│   ├── test
-│   └── pom.xml
-└── README.md
+ProjectManagementSystem/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── nit/
+│   │   │           ├── config/
+│   │   │           │   └── ProjectConfig.java          # Configuration class for beans and properties
+│   │   │           ├── controller/
+│   │   │           │   └── ProjectController.java      # Handles HTTP requests related to projects
+│   │   │           ├── entity/
+│   │   │           │   ├── Employee.java               # Represents Employee entity
+│   │   │           │   ├── Project.java                # Represents Project entity
+│   │   │           │   └── Task.java                   # Represents Task entity
+│   │   │           ├── repository/
+│   │   │           │   └── ProjectRepository.java      # Data access interface for Projects
+│   │   │           └── service/
+│   │   │               └── ProjectService.java         # Business logic for managing projects
+│   │   └── resources/
+│   │       ├── static/
+│   │       │   ├── css/                                # CSS files
+│   │       │   ├── js/                                 # JavaScript files
+│   │       │   └── images/                             # Static image files
+│   │       ├── templates/
+│   │       │   └── *.html                              # HTML templates for views
+│   │       └── application.properties                  # Configuration properties for the application
+│   ├── test/
+│   │   └── java/
+│   │       └── com/
+│   │           └── nit/
+│   │               └── ProjectManagementTests.java      # Unit and integration tests
+│   └── META-INF/
+│       └── MANIFEST.MF                                 # Manifest for the project
+├── target/
+│   ├── classes/                                         # Compiled application classes
+│   ├── test-classes/                                    # Compiled test classes
+│   └── generated-sources/                               # Source files generated from annotations
+├── HELP.md                                              # Documentation or project instructions
+├── pom.xml                                              # Maven project file with dependencies
+└── README.md                                            # Project overview and setup instructions
+
